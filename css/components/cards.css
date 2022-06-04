@@ -17,9 +17,14 @@
   height: 100px;
   width: 120px;
   object-fit:cover;
+  transition: .5s ease;
 }
 
 .card p {
   margin-bottom: auto;
   opacity: .5;
+}
+.card img:hover {
+  height: 150px;
+  width: 180px;
 }
