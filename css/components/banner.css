@@ -1,0 +1,20 @@
+.banner {
+  background-image: url(https://r-tsushin.com/wp-content/uploads/2021/09/beyond_ordinary_itineraries_shizuoka_izu_1_01.jpg);
+  background-size: cover;
+  color: white;
+  padding: 175px 0;
+  background-position: center;
+}
+
+.banner h1 {
+  font-size: 60px;
+  margin-bottom: 0;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.8);
+}
+
+.banner p {
+  opacity: .7;
+  font-size: 20px;
+  margin-bottom: 40px;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}

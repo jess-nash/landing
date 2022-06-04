@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background: linear-gradient(0deg, rgba(67,206,255,1) 0%, rgb(0, 31, 77) 100%);
+}
+
+.footer a {
+  font-size: 30px;
+  color: white;
+}
+
+.footer p{
+  color: white;
+  opacity: .7
+}
+
+#geopark-img {
+  width: 20px;
+}
